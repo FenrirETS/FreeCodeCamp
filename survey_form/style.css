@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    font-family: Merriweather, serif;
+  }
+  
+  #title {
+    display: block;
+    border: 2px solid;
+    width: 210px;
+    margin: auto;
+  }

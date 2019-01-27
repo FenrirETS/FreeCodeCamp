@@ -1,0 +1,33 @@
+body {
+    font-family: Merriweather, serif;
+  }
+  p {
+    font-size: 17px;
+  }
+  
+  #title {
+    padding-top: 8px;
+    text-align: center;
+  }
+  
+  #img-caption {
+    padding-top: 8px;
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%; 
+    display: block; 
+    height: auto;
+    margin: auto;
+  }
+  
+  #tribute-info {
+    margin: auto;
+    width: 1499px;
+  }
+  
+  #tribute-link {
+    padding-bottom:16px;
+    font-size: 17px;
+  }
