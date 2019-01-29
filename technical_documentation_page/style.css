@@ -1,0 +1,21 @@
+#navbar, ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+  }
+  
+  #main-doc {
+    display: block;
+    margin-left: 105px;
+  }
+  
+  @media only screen and (max-width: 1080px) {
+    img {
+      
+    }
+  }
